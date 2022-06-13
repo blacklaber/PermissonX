@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "PermissonX"
 include ':app'
+include ':Library'
