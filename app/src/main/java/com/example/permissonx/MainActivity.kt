@@ -29,8 +29,6 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-
-
     private fun call() {
         try {
             val intent = Intent(Intent.ACTION_CALL)
